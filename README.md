@@ -13,6 +13,8 @@ I'm Gurudutt Goswami, a passionate Data Analyst, BI developer and a programmer. 
 
 ### Connect With Me
 [<img src='https://github.com/Gurudutt-Goswami/Gurudutt-Goswami/blob/main/647549.png' height='40'>](https://www.linkedin.com/in/gurudutt-goswami-3a7031b2/)  
+[<img src='https://github.com/Gurudutt-Goswami/Gurudutt-Goswami/blob/main/gmail-new.png' height='40'>](https://mail.google.com/mail/u/0/#inbox)  
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gurudutt-Goswami&show_icons=true&theme=radical)
 
