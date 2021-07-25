@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm Gurudutt Goswami, a passionate Data Analyst, BI developer and a programmer. I really enjoy learning different aspects of data analytics & their applications in different domains. Keen Interested in data science & their integration with web languages to ease down user friendly analysis.
 
