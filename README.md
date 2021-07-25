@@ -14,8 +14,7 @@ I'm Gurudutt Goswami, a passionate Data Analyst, BI developer and a programmer. 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gurudutt-Goswami&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurudutt-Goswami&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gurudutt-Goswami)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
