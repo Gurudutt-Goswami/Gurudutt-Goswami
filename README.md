@@ -8,8 +8,8 @@ I'm Gurudutt Goswami, a passionate Data Analyst, BI developer and a programmer. 
 * HTML/CSS/JS/Jquery
 * IronPython/R/SQL
 
-<img alt="fun" align="right" src="https://github.com/Gurudutt-Goswami/Gurudutt-Goswami/blob/main/ShnX.gif"/>
-<img alt="fun1" align="left" src="https://github.com/Gurudutt-Goswami/Gurudutt-Goswami/blob/main/14gn.gif"/>
+<img alt="fun" align="right" src="https://github.com/Gurudutt-Goswami/Gurudutt-Goswami/blob/main/ShnX.gif" height="200px"/>
+<!--<img alt="fun1" align="left" src="https://github.com/Gurudutt-Goswami/Gurudutt-Goswami/blob/main/14gn.gif" />-->
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Gurudutt-Goswami)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/gurudutt-goswami-3a7031b2//)  
