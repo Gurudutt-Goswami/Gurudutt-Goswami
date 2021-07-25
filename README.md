@@ -3,7 +3,9 @@
 
 Hi, I'm Gurudutt Goswami, a passionate BI developer and a programmer. I really enjoy learning different aspects of data analytics & their applications in different domains. Keen Interested in data science & their integration with web languages to ease user friendly analysis.
 
+## Skills & Experience
 Skills: Data Analysis/Spotfire/HTML/CSS/IronPython/JS/Jquery/R/SQL/Dashboard Designing
+* :Laptop:
 
 - 🔭 I’m currently working on this page. 
 
@@ -13,8 +15,6 @@ Skills: Data Analysis/Spotfire/HTML/CSS/IronPython/JS/Jquery/R/SQL/Dashboard Des
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurudutt-Goswami)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gurudutt-Goswami&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Gurudutt-Goswami)  
 
 ![Profile views](https://gpvc.arturio.dev/Gurudutt-Goswami)  
 
