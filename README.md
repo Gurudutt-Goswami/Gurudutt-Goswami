@@ -11,7 +11,7 @@ I'm Gurudutt Goswami, a passionate Data Analyst, BI developer and a programmer. 
 
 <!--<img alt="fun1" align="left" src="https://github.com/Gurudutt-Goswami/Gurudutt-Goswami/blob/main/14gn.gif" />-->
 
-### Connect With Me
+### Connect With Me ![Profile views](https://gpvc.arturio.dev/Gurudutt-Goswami)  
 [<img src='https://github.com/Gurudutt-Goswami/Gurudutt-Goswami/blob/main/647549.png' height='40'>](https://www.linkedin.com/in/gurudutt-goswami-3a7031b2/)  
 
 
@@ -19,7 +19,7 @@ I'm Gurudutt Goswami, a passionate Data Analyst, BI developer and a programmer. 
 
 
 <!--
-![Profile views](https://gpvc.arturio.dev/Gurudutt-Goswami)  
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
