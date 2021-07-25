@@ -1,6 +1,5 @@
 ### Hi there 👋, Gurudutt Goswami
 #### Spotfire Expert
-![Spotfire Expert](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Hi, I'm Gurudutt Goswami, a passionate BI developer and a programmer. I really enjoy learning different aspects of data analytics & their applications in different domains. Keen Interested in data science & their integration with web languages to ease user friendly analysis.
 
