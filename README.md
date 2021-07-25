@@ -1,10 +1,23 @@
-### Hi there 👋
+### Hi there 👋, Gurudutt Goswami
+#### Spotfire Expert
+![Spotfire Expert](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gurudutt-Goswami)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**Gurudutt-Goswami/Gurudutt-Goswami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Gurudutt Goswami, a passionate BI developer and a programmer. I really enjoy learning different aspects of data analytics & their applications in different domains. Keen Interested in data science & their integration with web languages to ease user friendly analysis.
+
+Skills: Data Analysis/Spotfire/HTML/CSS/IronPython/JS/Jquery/R/SQL/Dashboard Designing
+
+- 🔭 I’m currently working on this page. 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Gurudutt-Goswami)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/gurudutt-goswami-3a7031b2//)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurudutt-Goswami)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gurudutt-Goswami&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Gurudutt-Goswami)  
+
+![Profile views](https://gpvc.arturio.dev/Gurudutt-Goswami)  
 
 
 Here are some ideas to get you started:
