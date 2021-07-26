@@ -4,11 +4,11 @@ I'm Gurudutt Goswami, a passionate Data Analyst, BI developer and a programmer. 
 
 ## Skills & Experience 
 * Data Analysis
-* Spotfire/Dashboard Designing  
+* Spotfire/Dashboard Designing  <img alt="fun" align="right" src="https://github.com/Gurudutt-Goswami/Gurudutt-Goswami/blob/main/giphy.gif" height="350px" style="margin-right:100px"/> 
 * HTML/CSS/JS/Jquery
 * IronPython/R/SQL
 
-| <img alt="fun" align="right" src="https://github.com/Gurudutt-Goswami/Gurudutt-Goswami/blob/main/giphy.gif" height="350px" style="margin-right:100px"/> 
+
 
 <!--
 <img alt="fun" align="right" src="https://github.com/Gurudutt-Goswami/Gurudutt-Goswami/blob/main/giphy%20(1).gif" height="370px" style="margin-right:100px"/> 
