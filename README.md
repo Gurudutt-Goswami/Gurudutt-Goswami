@@ -2,7 +2,7 @@
 
 I'm Gurudutt Goswami, a passionate Data Analyst, BI developer and a programmer. I really enjoy learning different aspects of data analytics & their applications in different domains. Keen Interested in data science & their integration with web languages to ease down user friendly analysis.
 
-<img alt="fun" align="right" src="https://github.com/Gurudutt-Goswami/Gurudutt-Goswami/blob/main/giphy.gif" height="400px" style="margin-right:100px"/> 
+<img alt="fun" align="center" src="https://github.com/Gurudutt-Goswami/Gurudutt-Goswami/blob/main/giphy.gif" height="400px" style="margin-right:100px"/> 
 
 ## Skills & Experience 
 * Data Analysis
