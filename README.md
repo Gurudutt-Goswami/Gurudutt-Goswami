@@ -9,9 +9,9 @@ I'm Gurudutt Goswami, a passionate Data Analyst, BI developer and a programmer. 
 * IronPython/R/SQL
 
 <img alt="fun" align="right" src="https://github.com/Gurudutt-Goswami/Gurudutt-Goswami/blob/main/giphy%20(1).gif" height="370px" style="margin-right:100px"/> 
-<img alt="fun" align="right" src="https://github.com/Gurudutt-Goswami/Gurudutt-Goswami/blob/main/giphy%20(2).gif" height="370px" style="margin-right:100px"/> 
-<img alt="fun" align="right" src="https://github.com/Gurudutt-Goswami/Gurudutt-Goswami/blob/main/giphy%20(3).gif" height="370px" style="margin-right:100px"/> 
-<img alt="fun" align="right" src="https://github.com/Gurudutt-Goswami/Gurudutt-Goswami/blob/main/giphy%20(4).gif" height="370px" style="margin-right:100px"/> 
+<img alt="fun" align="" src="https://github.com/Gurudutt-Goswami/Gurudutt-Goswami/blob/main/giphy%20(2).gif" height="370px" style="margin-right:100px"/> 
+<img alt="fun" align="" src="https://github.com/Gurudutt-Goswami/Gurudutt-Goswami/blob/main/giphy%20(3).gif" height="370px" style="margin-right:100px"/> 
+<img alt="fun" align="" src="https://github.com/Gurudutt-Goswami/Gurudutt-Goswami/blob/main/giphy%20(4).gif" height="370px" style="margin-right:100px"/> 
 
 <!--<img alt="fun1" align="left" src="https://github.com/Gurudutt-Goswami/Gurudutt-Goswami/blob/main/14gn.gif" />-->
 
