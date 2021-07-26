@@ -2,16 +2,17 @@
 
 I'm Gurudutt Goswami, a passionate Data Analyst, BI developer and a programmer. I really enjoy learning different aspects of data analytics & their applications in different domains. Keen Interested in data science & their integration with web languages to ease down user friendly analysis.
 
-## Skills & Experience | <img alt="fun" align="right" src="https://github.com/Gurudutt-Goswami/Gurudutt-Goswami/blob/main/giphy.gif" height="370px" style="margin-right:100px"/> 
+## Skills & Experience | <img alt="fun" align="right" src="https://github.com/Gurudutt-Goswami/Gurudutt-Goswami/blob/main/giphy.gif" height="300px" style="margin-right:100px"/> 
 * Data Analysis
 * Spotfire/Dashboard Designing  
 * HTML/CSS/JS/Jquery
 * IronPython/R/SQL
 
+<!--
 <img alt="fun" align="right" src="https://github.com/Gurudutt-Goswami/Gurudutt-Goswami/blob/main/giphy%20(1).gif" height="370px" style="margin-right:100px"/> 
-<img alt="fun" align="" src="https://github.com/Gurudutt-Goswami/Gurudutt-Goswami/blob/main/giphy%20(2).gif" height="370px" style="margin-right:100px"/> 
-<img alt="fun" align="" src="https://github.com/Gurudutt-Goswami/Gurudutt-Goswami/blob/main/giphy%20(3).gif" height="370px" style="margin-right:100px"/> 
-<img alt="fun" align="" src="https://github.com/Gurudutt-Goswami/Gurudutt-Goswami/blob/main/giphy%20(4).gif" height="370px" style="margin-right:100px"/> 
+<img alt="fun" align="" src="https://github.com/Gurudutt-Goswami/Gurudutt-Goswami/blob/main/giphy%20(2).gif" height="250px" style="margin-right:100px"/> 
+<img alt="fun" align="" src="https://github.com/Gurudutt-Goswami/Gurudutt-Goswami/blob/main/giphy%20(3).gif" height="250px" style="margin-right:100px"/> 
+<img alt="fun" align="" src="https://github.com/Gurudutt-Goswami/Gurudutt-Goswami/blob/main/giphy%20(4).gif" height="370px" style="margin-right:100px"/> -->
 
 <!--<img alt="fun1" align="left" src="https://github.com/Gurudutt-Goswami/Gurudutt-Goswami/blob/main/14gn.gif" />-->
 
