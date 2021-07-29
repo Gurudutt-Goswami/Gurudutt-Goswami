@@ -5,7 +5,7 @@ I'm Gurudutt Goswami, a passionate Data Analyst, BI developer and a programmer. 
 
 
 ## Skills & Experience <img alt="fun" align="right" src="https://github.com/Gurudutt-Goswami/Gurudutt-Goswami/blob/main/giphy%20(2).gif" height="300px" style="margin-right:100px"/> <!--<img alt="fun" align="right" src="https://github.com/Gurudutt-Goswami/Gurudutt-Goswami/blob/main/giphy.gif" height="400px"/>-->
-* Data Analysis
+* Data Analysis with Business Intelligence
 * Spotfire/Dashboard Designing  
 * HTML/CSS/JS/Jquery
 * IronPython/R/SQL
