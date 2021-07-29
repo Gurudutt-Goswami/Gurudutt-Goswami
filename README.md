@@ -4,7 +4,7 @@ I'm Gurudutt Goswami, a passionate Data Analyst, BI developer and a programmer. 
 
 
 
-## Skills & Experience<img alt="fun" align="right" src="https://github.com/Gurudutt-Goswami/Gurudutt-Goswami/blob/main/giphy.gif" height="400px"/>
+## Skills & Experience <img alt="fun" align="" src="https://github.com/Gurudutt-Goswami/Gurudutt-Goswami/blob/main/giphy%20(2).gif" height="250px" style="margin-right:100px"/> <!--<img alt="fun" align="right" src="https://github.com/Gurudutt-Goswami/Gurudutt-Goswami/blob/main/giphy.gif" height="400px"/>-->
 * Data Analysis
 * Spotfire/Dashboard Designing  
 * HTML/CSS/JS/Jquery
@@ -14,7 +14,7 @@ I'm Gurudutt Goswami, a passionate Data Analyst, BI developer and a programmer. 
 
 <!--
 <img alt="fun" align="right" src="https://github.com/Gurudutt-Goswami/Gurudutt-Goswami/blob/main/giphy%20(1).gif" height="370px" style="margin-right:100px"/> 
-<img alt="fun" align="" src="https://github.com/Gurudutt-Goswami/Gurudutt-Goswami/blob/main/giphy%20(2).gif" height="250px" style="margin-right:100px"/> 
+
 <img alt="fun" align="" src="https://github.com/Gurudutt-Goswami/Gurudutt-Goswami/blob/main/giphy%20(3).gif" height="250px" style="margin-right:100px"/> 
 <img alt="fun" align="" src="https://github.com/Gurudutt-Goswami/Gurudutt-Goswami/blob/main/giphy%20(4).gif" height="370px" style="margin-right:100px"/> -->
 
