@@ -22,7 +22,7 @@ I'm Gurudutt Goswami, a passionate Data Analyst, BI developer and a programmer. 
 
 ### Connect With Me 
 [<img src='https://github.com/Gurudutt-Goswami/Gurudutt-Goswami/blob/main/647549.png' height='40'>](https://www.linkedin.com/in/gurudutt-goswami-3a7031b2/)
-[<img src='https://github.com/Gurudutt-Goswami/Gurudutt-Goswami/blob/main/images.png' height='40'>](https://www.kaggle.com/gurudutt1)
+[<img src='https://github.com/Gurudutt-Goswami/Gurudutt-Goswami/blob/main/download.png' height='40'>](https://www.kaggle.com/gurudutt1)
 
 
 
