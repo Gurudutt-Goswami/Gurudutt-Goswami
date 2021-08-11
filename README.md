@@ -22,6 +22,8 @@ I'm Gurudutt Goswami, a passionate Data Analyst, BI developer and a programmer. 
 
 ### Connect With Me 
 [<img src='https://github.com/Gurudutt-Goswami/Gurudutt-Goswami/blob/main/647549.png' height='40'>](https://www.linkedin.com/in/gurudutt-goswami-3a7031b2/)  
+![images](https://user-images.githubusercontent.com/86184439/129039156-77432687-d655-44dd-aa8b-b590861bf6ae.png)
+
 
 ![Profile views](https://gpvc.arturio.dev/Gurudutt-Goswami)  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gurudutt-Goswami&show_icons=true&theme=radical)
