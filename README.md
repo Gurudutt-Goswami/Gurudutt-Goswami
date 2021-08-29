@@ -8,7 +8,7 @@ I'm Gurudutt Goswami, a passionate Data Analyst, BI developer and a programmer. 
 * Data Analysis with Business Intelligence
 * Spotfire/Dashboard Designing  
 * HTML/CSS/JS/Jquery
-* IronPython/R/SQL
+* Python/DJango/IronPython/R/SQL/
 
 
 
